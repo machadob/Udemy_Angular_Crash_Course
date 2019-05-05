@@ -1,3 +1,8 @@
+Launch VS Code.
+Open the Command Palette (Ctrl+Shift+P) and type 'shell command' to find the Shell Command: 
+    Install 'code' command in PATH command.
+Select that option.
+
 To launch Visual Studio Code from inside a Angular project from CLI (Terminal) type:
 code .
 To launch a terminal window in Visual Studio code type Cntrl+` (This is the backtick key below the esc key)
