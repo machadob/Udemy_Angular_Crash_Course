@@ -7,3 +7,6 @@ To launch Visual Studio Code from inside a Angular project from CLI (Terminal) t
 code .
 To launch a terminal window in Visual Studio code type Cntrl+` (This is the backtick key below the esc key)
 To add Auto import to VS Code, search for the Auto import plugin and install it.
+
+To generate a new Component from CLI:
+ng g c course (Where g stands for generate, c for component and course is the name of the new component)
